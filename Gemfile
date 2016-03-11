@@ -32,6 +32,9 @@ gem 'spring',        group: :development
 # Use unicorn as the app server
 # gem 'unicorn'
 
+# Assets are served in production in an efficient style and allows you to see errors in Heroku logs
+gem 'rails_12factor', group: :production
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
