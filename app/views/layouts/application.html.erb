@@ -8,22 +8,27 @@
 </head>
 <body>
   <header>
-    <div class="col-xs-3">
-      <%= link_to root_path, class: 'logo' do %>
-        <div class="circle">
-          <br />
-          <br />
-          DSV
-        </div>
-      <% end %>
-    </div>
-    <div class="col-xs-8 links">
-      <%= link_to 'My Resume', my_resume_path %>
-      &nbsp;&nbsp;
-      <%= link_to 'My Projects', my_projects_path %>
-      &nbsp;&nbsp;
-      <%= link_to 'My Skills', my_skills_path %>
-    </div>
+    <nav class="navbar navbar-inverse" role="navigation">
+      <div class="col-xs-3">
+        <%= link_to root_path, class: 'logo' do %>
+          <div class="circle">
+            <br />
+            Get
+            <br />
+            a new
+            <br />
+            quote
+          </div>
+        <% end %>
+      </div>
+      <div class="col-xs-8 links">
+        <%= link_to 'My Resume', my_resume_path %>
+        &nbsp;&nbsp;
+        <%= link_to 'My Projects', my_projects_path %>
+        &nbsp;&nbsp;
+        <%= link_to 'My Skills', my_skills_path %>
+      </div>
+    </nav>
   </header>
 
   <hr />
