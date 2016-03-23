@@ -64,3 +64,7 @@ h2 {
 .logo:hover {
   text-decoration: none;
 }
+
+::selection {
+  background-color: #f84342;
+}
