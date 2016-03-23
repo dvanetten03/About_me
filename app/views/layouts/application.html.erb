@@ -9,11 +9,13 @@
 <body>
   <header>
     <div class="col-xs-3">
-      <div class="circle">
-        <br />
-        <br />
-        DSV
-      </div>
+      <%= link_to root_path, class: 'logo' do %>
+        <div class="circle">
+          <br />
+          <br />
+          DSV
+        </div>
+      <% end %>
     </div>
     <div class="col-xs-8 links">
       <%= link_to 'My Resume', '#' %>
@@ -34,7 +36,7 @@
   <div class="footer">
     <div class="container">
       <div class="col-xs-12 footer-blurb">
-        Proudly hacked in Edmond, OK by <a href="http://github.com/dvanetten03">Diane Van Etten</a><br />
+        Proudly hacked in Edmond, OK by <a href="https://github.com/dvanetten03">Diane Van Etten</a><br />
         You can follow me on Twitter <a href="http://twitter.com/dvanetten03">@dvanetten03</a>
       </div>
     </div>
