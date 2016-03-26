@@ -45,6 +45,16 @@ end
 # Use unicorn as the app server
 # gem 'unicorn'
 
+# Use AWS to store documents
+gem 'aws-sdk', '~> 2'
+
+gem 'carrierwave'
+gem 'fog', '~> 1.3.1'
+
+# Use Figaro to pull secret values into web app
+gem 'figaro'
+
+
 # Use Capistrano for deployment
 # gem 'capistrano', group: :development
 

@@ -4,9 +4,10 @@ Diane::Application.routes.draw do
 
   # You can have the root of your site routed with "root"
   root 'quotes#index'
-  get 'my_resume', to: 'quotes#resume'
-  get 'my_projects', to: 'quotes#projects'
-  get 'my_skills', to: 'quotes#skills'
+  get 'my_resume' => 'quotes#resume'
+  get 'my_projects' => 'quotes#projects'
+  get 'my_skills' => 'quotes#skills'
+  
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
