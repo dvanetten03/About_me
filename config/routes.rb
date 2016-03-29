@@ -7,6 +7,7 @@ Diane::Application.routes.draw do
   get 'my_resume' => 'quotes#resume'
   get 'my_projects' => 'quotes#projects'
   get 'my_skills' => 'quotes#skills'
+
   
 
   # Example of regular route:

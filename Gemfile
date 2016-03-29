@@ -25,6 +25,8 @@ gem 'rails_12factor', group: :production
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
+gem 'foundation-rails'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 
@@ -45,14 +47,7 @@ end
 # Use unicorn as the app server
 # gem 'unicorn'
 
-# Use AWS to store documents
-gem 'aws-sdk', '~> 2'
 
-gem 'carrierwave'
-gem 'fog', '~> 1.3.1'
-
-# Use Figaro to pull secret values into web app
-gem 'figaro'
 
 
 # Use Capistrano for deployment
