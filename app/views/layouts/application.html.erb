@@ -4,11 +4,14 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+
     <title>Diane Van Etten<%= content_for?(:title) ? yield(:title) : "" %></title>
+
 
     <%= stylesheet_link_tag    "application" %>
     <%= javascript_include_tag "application", 'data-turbolinks-track' => true %>
     <%= csrf_meta_tags %>
+
 
   </head>
 
@@ -27,6 +30,7 @@
         </div>
       </nav>
     </header>
+
 
     <%= yield %>
 
@@ -53,6 +57,7 @@
     </div>
     <div class="small-12 medium-12 large-3 columns">
       <p class="about">Proudly hacked in Oklahoma City by Diane Van Etten</p>
+
       <ul class="inline-list social">
         <a href="https:///www.facebook.com/diane.vanetten"><i class="svg-icon facebook"></i></a>
         <a href="https://www.twitter.com/dvanetten03"><i class="svg-icon twitter"></i></a>
