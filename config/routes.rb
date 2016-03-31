@@ -6,8 +6,8 @@ Diane::Application.routes.draw do
   root 'quotes#index'
   get 'my_resume' => 'quotes#resume'
   get 'my_projects' => 'quotes#projects'
-  get 'my_skills' => 'quotes#skills'
-
+  get 'blog' => 'projects#blog'
+  get 'contact' => 'projects#contact'
   
 
   # Example of regular route:

@@ -48,7 +48,7 @@ h4 {
 
 /* This pattern is downloaded from www.subtlepatterns.com 
  If you need more, that's where to get'em*/
- 
+
 body {
   font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
   line-height: .5;
@@ -65,7 +65,7 @@ body {
 
 
 ::selection {
-  background-color: #f84342;
+  background-color: #ff00fa;
 }
 
 .hero {
@@ -719,9 +719,13 @@ label.error {
   width:238px;
 }
 
-a, a:visited, a:active {
+a, a:visited  {
   color:#7b90b5;
   text-decoration: none;
+}
+
+a:active {
+  color: ff00ff;
 }
 
 a:hover {
