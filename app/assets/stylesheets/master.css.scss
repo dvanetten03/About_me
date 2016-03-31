@@ -7,6 +7,7 @@
 
 .links  {
   padding-top: 20px;
+  padding-right: 15px;
   text-align:right;
 
     a {
@@ -31,13 +32,14 @@ h2 {
 h3 {
   font-family: 'Cinzel', serif;
   font-size: 30px;
-  color: #ff00fa;
+  color: #7b90b5;
 }
 
 h4 {
   font-family: 'Cinzel', serif;
   font-size: 18px;
-  color: #ff00fa;
+  color: #7b90b5;
+  font-weight: bold;
 }
 
 .navbar.navbar-inverse {
@@ -719,13 +721,9 @@ label.error {
   width:238px;
 }
 
-a, a:visited  {
+a, a:visited, a:active  {
   color:#7b90b5;
   text-decoration: none;
-}
-
-a:active {
-  color: ff00ff;
 }
 
 a:hover {
