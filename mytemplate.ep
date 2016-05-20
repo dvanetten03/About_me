@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<Document xmlns="http://www.evolus.vn/Namespace/Pencil"><Properties/><Pages><Page><Properties><Property name="name">Homepage</Property><Property name="id">1457766151916_1321</Property><Property name="width">739.5</Property><Property name="height">643.859375</Property><Property name="dimBackground"/><Property name="transparentBackground">true</Property><Property name="backgroundColor">#FFFFFFFF</Property></Properties><Content><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.BasicWebElements:heading" p:sc="Heading 3" id="b53b26b93d2e4f4e837a07d2546b9e33" transform="matrix(1,0,0,1,281,0)"><p:metadata><p:property name="textContent"><![CDATA[Heading level 3]]></p:property><p:property name="textFont"><![CDATA["Liberation Sans",Arial,sans-serif|bold|normal|17px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="customStyle"><![CDATA[]]></p:property></p:metadata>
+
+            <foreignObject x="0" y="0" width="124" height="20" p:name="htmlObject" id="d7503a62880a294cb2e2fbb27089801a" style="color: rgb(0, 0, 0); opacity: 1; font-family: &quot;Liberation Sans&quot;,Arial,sans-serif; font-size: 17px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="8fc4767111417c45891ac299a9376aca" style="white-space: nowrap; display: inline-block !important"><div xmlns="http://www.w3.org/1999/xhtml">Heading level 3</div></div>
+            </foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.GTK.Widgets:Button" id="f0a08e5074f8134394162dcdd32493a5" transform="matrix(1,0,0,1,429,0)"><p:metadata><p:property name="box"><![CDATA[90,24]]></p:property><p:property name="buttonText"><![CDATA[Button]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textFont"><![CDATA[Liberation Sans|normal|normal|12px|none]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property><p:property name="disabled"><![CDATA[false]]></p:property></p:metadata>
+            
+            <defs>
+                <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" p:name="linearFill" id="36bf93ab2e54124fbda72ee915ed0687">
+                    <stop style="stop-color:#fdfdfc;stop-opacity:1" offset="0" p:name="stop1" id="df1f750d6db4134bac7146ff3279c8c7"/>
+                    <stop style="stop-color: rgb(235, 235, 235); stop-opacity: 1;" offset="0.7" p:name="stop2" id="4fd02c5c29e88f4fa80e2911e5d510a8"/>
+                    <stop style="stop-color: rgb(252, 252, 252); stop-opacity: 1;" offset="1" p:name="stop3" id="94402d01a5cd5e45a7a6be16595f522c"/>
+                </linearGradient>
+            </defs>
+            <rect width="89" height="23" rx="3" ry="3" x="0.5" y="0.5" style="fill: url(#36bf93ab2e54124fbda72ee915ed0687) none; stroke: rgb(161, 150, 133); stroke-width: 1; stroke-linejoin: round; stroke-opacity: 1;" p:name="rect" id="fa0ba67bd10065459735bf275abde2e5"/>
+            <text x="31.5" y="17.25" style="font-size: 12px; font-style: normal; font-weight: normal; text-align: left; text-anchor: start; dominant-baseline: central; fill: rgb(0, 0, 0); font-family: Liberation Sans; fill-opacity: 1; text-decoration: none;" xml:space="preserve" p:name="text" id="9660f43ef7ad184d96dbd79761c67d57" transform="translate(-3,-5)">Button</text>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.GTK.Widgets:Button" id="45c1f46e85fb5145af39a9b38f2b355e" transform="matrix(1,0,0,1,536,0)"><p:metadata><p:property name="box"><![CDATA[90,24]]></p:property><p:property name="buttonText"><![CDATA[Button]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textFont"><![CDATA[Liberation Sans|normal|normal|12px|none]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property><p:property name="disabled"><![CDATA[false]]></p:property></p:metadata>
+            
+            <defs>
+                <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" p:name="linearFill" id="6ad40a5881d36d4aa9e929eac4bcc445">
+                    <stop style="stop-color:#fdfdfc;stop-opacity:1" offset="0" p:name="stop1" id="ed1e4e790cbb784ca3f653ee45cd78fc"/>
+                    <stop style="stop-color: rgb(235, 235, 235); stop-opacity: 1;" offset="0.7" p:name="stop2" id="e7d1ed518188e143ad7408d719030026"/>
+                    <stop style="stop-color: rgb(252, 252, 252); stop-opacity: 1;" offset="1" p:name="stop3" id="2d74d049ea82004ba80bdadbb9d71683"/>
+                </linearGradient>
+            </defs>
+            <rect width="89" height="23" rx="3" ry="3" x="0.5" y="0.5" style="fill: url(#6ad40a5881d36d4aa9e929eac4bcc445) none; stroke: rgb(161, 150, 133); stroke-width: 1; stroke-linejoin: round; stroke-opacity: 1;" p:name="rect" id="584a76caa38738458e5f84feba6b79df"/>
+            <text x="31.5" y="17.25" style="font-size: 12px; font-style: normal; font-weight: normal; text-align: left; text-anchor: start; dominant-baseline: central; fill: rgb(0, 0, 0); font-family: Liberation Sans; fill-opacity: 1; text-decoration: none;" xml:space="preserve" p:name="text" id="b8e87c74b8b7614797a14e883eb202c6" transform="translate(-3,-5)">Button</text>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.GTK.Widgets:Button" id="095cd4ffdfa3ad418716ede0f8046d3d" transform="matrix(1,0,0,1,650,0)"><p:metadata><p:property name="box"><![CDATA[90,24]]></p:property><p:property name="buttonText"><![CDATA[Button]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textFont"><![CDATA[Liberation Sans|normal|normal|12px|none]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property><p:property name="disabled"><![CDATA[false]]></p:property></p:metadata>
+            
+            <defs>
+                <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" p:name="linearFill" id="c80975aa18f318429f1dd50551c8d52a">
+                    <stop style="stop-color:#fdfdfc;stop-opacity:1" offset="0" p:name="stop1" id="cdbbf7d5bfe2794eacfec3fddcebaf80"/>
+                    <stop style="stop-color: rgb(235, 235, 235); stop-opacity: 1;" offset="0.7" p:name="stop2" id="6811c59648bf25458c7e5754c7985715"/>
+                    <stop style="stop-color: rgb(252, 252, 252); stop-opacity: 1;" offset="1" p:name="stop3" id="268c0d3954d4254493b6efd9222c1fb8"/>
+                </linearGradient>
+            </defs>
+            <rect width="89" height="23" rx="3" ry="3" x="0.5" y="0.5" style="fill: url(#c80975aa18f318429f1dd50551c8d52a) none; stroke: rgb(161, 150, 133); stroke-width: 1; stroke-linejoin: round; stroke-opacity: 1;" p:name="rect" id="bcfb38ad2d23f64f9fc96b8dbc0cc960"/>
+            <text x="31.5" y="17.25" style="font-size: 12px; font-style: normal; font-weight: normal; text-align: left; text-anchor: start; dominant-baseline: central; fill: rgb(0, 0, 0); font-family: Liberation Sans; fill-opacity: 1; text-decoration: none;" xml:space="preserve" p:name="text" id="b7a8e755676d3f49a35f306000a5cb0e" transform="translate(-3,-5)">Button</text>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.BasicWebElements:pane" id="46be61628910d94aadfdab1766a5bccc" transform="matrix(1,0,0,1,3,67)"><p:metadata><p:property name="radius"><![CDATA[10,0]]></p:property><p:property name="textPadding"><![CDATA[0,10]]></p:property><p:property name="fillColor"><![CDATA[#EEEEEEFF]]></p:property><p:property name="shadowStyle"><![CDATA[0|0|3]]></p:property><p:property name="shadowColor"><![CDATA[#00000000]]></p:property><p:property name="strokeColor"><![CDATA[#000000FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property><p:property name="textContent"><![CDATA[]]></p:property><p:property name="textFont"><![CDATA["Liberation Sans",Arial,sans-serif|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property><p:property name="box"><![CDATA[200,300]]></p:property><p:property name="cornerStyle"><![CDATA[none]]></p:property><p:property name="customStyle"><![CDATA[]]></p:property></p:metadata>
+            <foreignObject x="-3" y="-3" width="206" height="306" p:name="htmlObject" id="13d0036de742f7468a50eb947f1d1137" style="font-family: &quot;Liberation Sans&quot;,Arial,sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); opacity: 1;">
+                <div xmlns="http://www.w3.org/1999/xhtml" style="-moz-box-sizing: border-box; overflow: hidden; box-shadow: none; width: 200px; height: 300px; padding: 10px; background-color: rgb(238, 238, 238); border-radius: 0px; border: medium none; margin-left: 3px; margin-top: 3px;" p:name="div" id="a0abb02dc7cfda4f8c119499dc8d8177"><div xmlns="http://www.w3.org/1999/xhtml"></div></div>
+            </foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:PlainTextV2" id="f26770a0f25aa846b7ee5662c4ebffeb" transform="matrix(1,0,0,1,317,101)"><p:metadata><p:property name="disabled"><![CDATA[false]]></p:property><p:property name="width"><![CDATA[100,0]]></p:property><p:property name="fixedWidth"><![CDATA[false]]></p:property><p:property name="label"><![CDATA[Plain text]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textFont"><![CDATA["Liberation Sans",Arial,sans-serif|normal|normal|13px|none]]></p:property><p:property name="textAlign"><![CDATA[0,0]]></p:property></p:metadata>
+            <rect x="0" y="0" style="fill: none; stroke: none; visibility: hidden; display: none;" p:name="bgRect" id="52b26accc29c4642aad5d27b4c7d6bde" width="0" height="0"/>
+            <text xml:space="preserve" p:name="text" id="b75622dbe1784a47aa19468fcaa7817d" style="fill: rgb(0, 0, 0); fill-opacity: 1; font-family: &quot;Liberation Sans&quot;,Arial,sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;"><tspan x="0" y="0">Plain text</tspan></text>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:PlainTextV2" id="77762527e43c40439374cb6d258ca6f6" transform="matrix(1,0,0,1,317,136)"><p:metadata><p:property name="disabled"><![CDATA[false]]></p:property><p:property name="width"><![CDATA[100,0]]></p:property><p:property name="fixedWidth"><![CDATA[false]]></p:property><p:property name="label"><![CDATA[Plain text]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textFont"><![CDATA["Liberation Sans",Arial,sans-serif|normal|normal|13px|none]]></p:property><p:property name="textAlign"><![CDATA[0,0]]></p:property></p:metadata>
+            <rect x="0" y="0" style="fill: none; stroke: none; visibility: hidden; display: none;" p:name="bgRect" id="4ae66926458c9446979d4f6fad162d7d" width="0" height="0"/>
+            <text xml:space="preserve" p:name="text" id="3e535b60ea8e444eaea44746ce63846c" style="fill: rgb(0, 0, 0); fill-opacity: 1; font-family: &quot;Liberation Sans&quot;,Arial,sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;"><tspan x="0" y="0">Plain text</tspan></text>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:SVGImage" id="794336c49d7ef94ba3d98595e4366cdc" transform="matrix(1,0,0,1,291,276)" p:sizing-x-policy="relative" p:sizing-y-policy="relative" p:sizing-w-policy="fixed" p:sizing-h-policy="relative"><p:metadata><p:property name="box"><![CDATA[61,46]]></p:property><p:property name="originalDim"><![CDATA[0,0]]></p:property><p:property name="svgXML"><![CDATA[<g xmlns="http://www.w3.org/2000/svg" p:ImageSource="OpenClipart.org" xmlns:p="http://www.evolus.vn/Namespace/Pencil">
+  <defs id="a0471ac85c78b4478c1b82c3a8455862">
+    <linearGradient id="5a4a70eb0aa1da4dafb4b59c951c05ed">
+      <stop id="56f8527cbca2f745b0429130b323b131" style="stop-color:#bc8000" offset="0"/>
+      <stop id="f11468cb0c4c38419808df2620fb6264" style="stop-color:#000000" offset="1"/>
+    </linearGradient>
+    <filter id="56285a330ec41c4e82acdfe8ff966c83" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="02ad0e7531e432438ccc91a52f1c8d2c" stdDeviation="0.5254465" inkscape:collect="always"/>
+    </filter>
+    <filter id="997e374b37b1c3428e9c4a3bd4320802" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="84ebf4f5926e804b9649635d6313fcaf" stdDeviation="2.6870056" inkscape:collect="always"/>
+    </filter>
+    <linearGradient id="aab6fad9b8a2b346abe147a5235edd29" y2="392.11" xlink:href="#5a4a70eb0aa1da4dafb4b59c951c05ed" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" x2="371.74" y1="120.22" x1="367.14" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"/>
+    <linearGradient id="e30a523f9b523841bb62de85f0dcc11e" y2="110.51" xlink:href="#5a4a70eb0aa1da4dafb4b59c951c05ed" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" x2="371.74" y1="387.75" x1="368.52" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"/>
+    <radialGradient id="eaf22b1edcbd4f44a1c2620823504667" gradientUnits="userSpaceOnUse" cy="169.43" cx="371.74" gradientTransform="matrix(2.0651 .0088026 -.0054631 1.2817 -395.02 -60.058)" r="137.75" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+      <stop id="372f1442775fe043919a5611f71d6f64" style="stop-color:#dcb028" offset="0"/>
+      <stop id="cbd4514ce7397b4282618fcd61e75cb4" style="stop-color:#783c00" offset="1"/>
+    </radialGradient>
+    <linearGradient id="f5d2a4d7aeb91f45ba5ccdfd6e085e11" y2="257.56" gradientUnits="userSpaceOnUse" x2="372.45" y1="97.362" x1="372.45" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+      <stop id="020b67f634bff244aa9b393f613bcc81" style="stop-color:#ffffff" offset="0"/>
+      <stop id="ddc60ff42b865b45877779a94fa15743" style="stop-color:#ffffff;stop-opacity:0" offset="1"/>
+    </linearGradient>
+    <linearGradient id="48e0c26b52714949a81d17a96edf0830" y2="251.31" gradientUnits="userSpaceOnUse" x2="509.48" y1="251.31" x1="233.99" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+      <stop id="f3cb9e11a583a94baa17c686d25c9258" style="stop-color:#5c2000" offset="0"/>
+      <stop id="6df66dcdd9a98649a622d369eb9b7af7" style="stop-color:#ffffff" offset=".5"/>
+      <stop id="1b8fa048207f6540ad78a8507b7566df" style="stop-color:#340000" offset="1"/>
+    </linearGradient>
+    <linearGradient id="6d68bd117f3e2946a3fbe9979012cead" y2="258.32" gradientUnits="userSpaceOnUse" x2="397.88" y1="258.32" x1="343.2" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+      <stop id="5e751a0cb2ece74aa5b523b290743ea1" style="stop-color:#340000" offset="0"/>
+      <stop id="18c5d5d68213154aadba33ae872a8a6b" style="stop-color:#fcfc80" offset="1"/>
+    </linearGradient>
+    <linearGradient id="d12d5dd1db89f84cb44450e4235ac164" y2="320.69" gradientUnits="userSpaceOnUse" x2="370.55" y1="198.51" x1="372.06" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+      <stop id="1bbc108f4f529a42badbad3e42870be9" style="stop-color:#bc8000" offset="0"/>
+      <stop id="ceaa6ec401ccc243b243c2b7c1226021" style="stop-color:#040000" offset="1"/>
+    </linearGradient>
+    <linearGradient id="9cae0d5dac3e634593b5ab0cea4ccfd7" y2="208.09" gradientUnits="userSpaceOnUse" x2="378.5" y1="184.75" x1="378.5" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+      <stop id="6a7e84a674f7eb4a8ec584808fd29548" style="stop-color:#ffffff" offset="0"/>
+      <stop id="847388aaae6a924a8e591c103357e86e" style="stop-color:#ffffff;stop-opacity:0" offset="1"/>
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" id="2f014191af5d894cacc274faf7090cbd" bordercolor="#666666" inkscape:pageshadow="2" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:window-y="0" pagecolor="#ffffff" inkscape:window-maximized="0" inkscape:zoom="2.8" inkscape:window-x="0" inkscape:window-height="645" showgrid="false" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="246.71294" inkscape:cy="177.67034" inkscape:window-width="674" inkscape:pageopacity="0.0" inkscape:document-units="px"/>
+  <g id="324647c3380d34469770225f04a5e732" inkscape:label="Capa 1" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:groupmode="layer" transform="translate(-229.3,-108.88)">
+    <rect id="c30622e3f0d4144db9b6338a300b3b3f" style="fill-rule:evenodd;fill:#000000" rx="24.279" ry="27.275" height="284.86" width="284.86" y="108.88" x="229.3"/>
+    <rect id="f81e3dc8b2bfa24889e391296871f55f" style="filter:url(#997e374b37b1c3428e9c4a3bd4320802);fill-rule:evenodd;fill:url(#aab6fad9b8a2b346abe147a5235edd29)" rx="22.902" ry="25.728" height="268.7" width="268.7" y="116.96" x="237.39"/>
+    <path id="dc726024c0c6ae419982eff925160afc" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" style="filter:url(#56285a330ec41c4e82acdfe8ff966c83);fill-rule:evenodd;fill:#ffffff" d="m253.98 111.37c-11.387 0-20.813 9.1075-22.844 21.219l0.30357 5.5357c3.1441-13.069 7.3617-24.776 24.183-27.469l-1.6429 0.71429z"/>
+    <rect id="bbbab6db0446364da30317a760984162" style="filter:url(#997e374b37b1c3428e9c4a3bd4320802);fill-rule:evenodd;fill:url(#e30a523f9b523841bb62de85f0dcc11e)" transform="matrix(.76157 0 0 .76157 88.635 59.921)" rx="22.902" ry="25.728" height="268.7" width="268.7" y="116.96" x="237.39"/>
+    <rect id="d1c742aba2c30b4c94b89914e75bdeca" ry="25.728" style="fill-rule:evenodd;stroke:url(#48e0c26b52714949a81d17a96edf0830);stroke-width:6.7902;fill:url(#eaf22b1edcbd4f44a1c2620823504667)" rx="22.902" transform="matrix(.58908 0 0 .58908 152.75 103.27)" height="268.7" width="268.7" y="116.96" x="237.39"/>
+    <path id="8ce6aba9f27641488c62ef1ea72a6bd9" style="fill:url(#6d68bd117f3e2946a3fbe9979012cead)" sodipodi:type="inkscape:offset" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m382.34 191.62c-16.857 0.00013-25.281 8.2168-25.281 24.656v11.969h-13.844v16.969h13.844v79.812h25.625v-79.812h15.188v-16.969h-15.188v-9.7188c0.23821-5.1224 2.561-7.6874 6.9688-7.6875l7.35 0.54v-19.22l-14.66-0.54z" inkscape:original="M 382.34375 191.625 C 365.48724 191.62513 357.06248 199.84184 357.0625 216.28125 L 357.0625 228.25 L 343.21875 228.25 L 343.21875 245.21875 L 357.0625 245.21875 L 357.0625 325.03125 L 382.6875 325.03125 L 382.6875 245.21875 L 397.875 245.21875 L 397.875 228.25 L 382.6875 228.25 L 382.6875 218.53125 C 382.92571 213.4089 385.2485 210.84386 389.65625 210.84375 L 397 211.375 L 397 192.15625 L 382.34375 191.625 z " transform="matrix(.97812 0 0 .97373 9.6577 .4925)" inkscape:radius="0"/>
+    <path id="8d7e29bfbd93cc4ca1a7914044b459f2" style="fill:url(#d12d5dd1db89f84cb44450e4235ac164)" sodipodi:type="inkscape:offset" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m382.19 195.97c-7.6264 0.0266-12.628 1.8625-15.781 4.9375-3.1761 3.0976-5 7.8978-5 15.375v11.969a4.347 4.347 0 0 1 -4.3438 4.3438h-9.5v8.2812h9.5a4.347 4.347 0 0 1 4.3438 4.3438v75.469h16.938v-75.469a4.347 4.347 0 0 1 4.3438 -4.3438h10.844v-8.2812h-10.844a4.347 4.347 0 0 1 -4.35 -4.34v-9.7188a4.347 4.347 0 0 1 0 -0.1875c0.148-3.1824 0.95156-6.2052 3.0312-8.5 2.0797-2.2948 5.2342-3.3437 8.2812-3.3438a4.347 4.347 0 0 1 0.3125 0l2.6875 0.1875v-10.344l-10.312-0.375h-0.15625z" inkscape:original="M 382.34375 191.625 C 365.48724 191.62513 357.06248 199.84184 357.0625 216.28125 L 357.0625 228.25 L 343.21875 228.25 L 343.21875 245.21875 L 357.0625 245.21875 L 357.0625 325.03125 L 382.6875 325.03125 L 382.6875 245.21875 L 397.875 245.21875 L 397.875 228.25 L 382.6875 228.25 L 382.6875 218.53125 C 382.92571 213.4089 385.2485 210.84386 389.65625 210.84375 L 397 211.375 L 397 192.15625 L 382.34375 191.625 z " transform="matrix(.97812 0 0 .97373 9.6577 .4925)" inkscape:radius="-4.3465757"/>
+    <path id="6012986bdfa0104a9c5941c8825fd676" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccc" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" style="fill-rule:evenodd;fill:url(#f5d2a4d7aeb91f45ba5ccdfd6e085e11)" d="m313.81 174.19h117.29c6.6762 0 12.051 3.3232 12.051 7.451v47.916c-15.349 38.13-121.96 36.538-141.39 0v-47.916c0-4.1279 5.3747-7.451 12.051-7.451z"/>
+    <path id="1c93c3cf6c2a424ba1a77f8a5f559bfb" style="fill:url(#9cae0d5dac3e634593b5ab0cea4ccfd7)" inkscape:connector-curvature="0" d="m383.47 192.12c-7.33 0.03-11.96 1.76-14.85 4.57-2.48 2.41-4.1 5.99-4.53 11.4h15.72c0.5-1.38 1.22-2.67 2.25-3.81 2.23-2.45 5.55-3.53 8.72-3.53a0.82162 0.81793 0 0 1 0.38 0.09v-0.09l1.75 0.13v-8.41l-9.29-0.35h-0.15zm7.59 10.19a0.82162 0.81793 0 0 1 -0.03 0.07c-0.66-0.02 0.69 0.02 0.03 0v-0.07z"/>
+  </g>
+  <metadata id="3fd647b58c0d1d43b0dbd01782428746">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work xmlns:cc="http://creativecommons.org/ns#">
+        <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+        <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License xmlns:cc="http://creativecommons.org/ns#" rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</g>]]></p:property></p:metadata>
+            <g p:name="container" id="3abc5523347f49459e653d28c87b94a8" transform="scale(Infinity,Infinity)"><g xmlns="http://www.w3.org/2000/svg" p:ImageSource="OpenClipart.org" xmlns:p="http://www.evolus.vn/Namespace/Pencil">
+  <defs id="a0471ac85c78b4478c1b82c3a8455862">
+    <linearGradient id="5a4a70eb0aa1da4dafb4b59c951c05ed">
+      <stop id="56f8527cbca2f745b0429130b323b131" style="stop-color:#bc8000" offset="0"/>
+      <stop id="f11468cb0c4c38419808df2620fb6264" style="stop-color:#000000" offset="1"/>
+    </linearGradient>
+    <filter id="56285a330ec41c4e82acdfe8ff966c83" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="02ad0e7531e432438ccc91a52f1c8d2c" stdDeviation="0.5254465" inkscape:collect="always"/>
+    </filter>
+    <filter id="997e374b37b1c3428e9c4a3bd4320802" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="84ebf4f5926e804b9649635d6313fcaf" stdDeviation="2.6870056" inkscape:collect="always"/>
+    </filter>
+    <linearGradient id="aab6fad9b8a2b346abe147a5235edd29" y2="392.11" xlink:href="#5a4a70eb0aa1da4dafb4b59c951c05ed" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" x2="371.74" y1="120.22" x1="367.14" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"/>
+    <linearGradient id="e30a523f9b523841bb62de85f0dcc11e" y2="110.51" xlink:href="#5a4a70eb0aa1da4dafb4b59c951c05ed" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" x2="371.74" y1="387.75" x1="368.52" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"/>
+    <radialGradient id="eaf22b1edcbd4f44a1c2620823504667" gradientUnits="userSpaceOnUse" cy="169.43" cx="371.74" gradientTransform="matrix(2.0651 .0088026 -.0054631 1.2817 -395.02 -60.058)" r="137.75" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+      <stop id="372f1442775fe043919a5611f71d6f64" style="stop-color:#dcb028" offset="0"/>
+      <stop id="cbd4514ce7397b4282618fcd61e75cb4" style="stop-color:#783c00" offset="1"/>
+    </radialGradient>
+    <linearGradient id="f5d2a4d7aeb91f45ba5ccdfd6e085e11" y2="257.56" gradientUnits="userSpaceOnUse" x2="372.45" y1="97.362" x1="372.45" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+      <stop id="020b67f634bff244aa9b393f613bcc81" style="stop-color:#ffffff" offset="0"/>
+      <stop id="ddc60ff42b865b45877779a94fa15743" style="stop-color:#ffffff;stop-opacity:0" offset="1"/>
+    </linearGradient>
+    <linearGradient id="48e0c26b52714949a81d17a96edf0830" y2="251.31" gradientUnits="userSpaceOnUse" x2="509.48" y1="251.31" x1="233.99" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+      <stop id="f3cb9e11a583a94baa17c686d25c9258" style="stop-color:#5c2000" offset="0"/>
+      <stop id="6df66dcdd9a98649a622d369eb9b7af7" style="stop-color:#ffffff" offset=".5"/>
+      <stop id="1b8fa048207f6540ad78a8507b7566df" style="stop-color:#340000" offset="1"/>
+    </linearGradient>
+    <linearGradient id="6d68bd117f3e2946a3fbe9979012cead" y2="258.32" gradientUnits="userSpaceOnUse" x2="397.88" y1="258.32" x1="343.2" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+      <stop id="5e751a0cb2ece74aa5b523b290743ea1" style="stop-color:#340000" offset="0"/>
+      <stop id="18c5d5d68213154aadba33ae872a8a6b" style="stop-color:#fcfc80" offset="1"/>
+    </linearGradient>
+    <linearGradient id="d12d5dd1db89f84cb44450e4235ac164" y2="320.69" gradientUnits="userSpaceOnUse" x2="370.55" y1="198.51" x1="372.06" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+      <stop id="1bbc108f4f529a42badbad3e42870be9" style="stop-color:#bc8000" offset="0"/>
+      <stop id="ceaa6ec401ccc243b243c2b7c1226021" style="stop-color:#040000" offset="1"/>
+    </linearGradient>
+    <linearGradient id="9cae0d5dac3e634593b5ab0cea4ccfd7" y2="208.09" gradientUnits="userSpaceOnUse" x2="378.5" y1="184.75" x1="378.5" inkscape:collect="always" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+      <stop id="6a7e84a674f7eb4a8ec584808fd29548" style="stop-color:#ffffff" offset="0"/>
+      <stop id="847388aaae6a924a8e591c103357e86e" style="stop-color:#ffffff;stop-opacity:0" offset="1"/>
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" id="2f014191af5d894cacc274faf7090cbd" bordercolor="#666666" inkscape:pageshadow="2" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:window-y="0" pagecolor="#ffffff" inkscape:window-maximized="0" inkscape:zoom="2.8" inkscape:window-x="0" inkscape:window-height="645" showgrid="false" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="246.71294" inkscape:cy="177.67034" inkscape:window-width="674" inkscape:pageopacity="0.0" inkscape:document-units="px"/>
+  <g id="324647c3380d34469770225f04a5e732" inkscape:label="Capa 1" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:groupmode="layer" transform="translate(-229.3,-108.88)">
+    <rect id="c30622e3f0d4144db9b6338a300b3b3f" style="fill-rule:evenodd;fill:#000000" rx="24.279" ry="27.275" height="284.86" width="284.86" y="108.88" x="229.3"/>
+    <rect id="f81e3dc8b2bfa24889e391296871f55f" style="filter:url(#997e374b37b1c3428e9c4a3bd4320802);fill-rule:evenodd;fill:url(#aab6fad9b8a2b346abe147a5235edd29)" rx="22.902" ry="25.728" height="268.7" width="268.7" y="116.96" x="237.39"/>
+    <path id="dc726024c0c6ae419982eff925160afc" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" style="filter:url(#56285a330ec41c4e82acdfe8ff966c83);fill-rule:evenodd;fill:#ffffff" d="m253.98 111.37c-11.387 0-20.813 9.1075-22.844 21.219l0.30357 5.5357c3.1441-13.069 7.3617-24.776 24.183-27.469l-1.6429 0.71429z"/>
+    <rect id="bbbab6db0446364da30317a760984162" style="filter:url(#997e374b37b1c3428e9c4a3bd4320802);fill-rule:evenodd;fill:url(#e30a523f9b523841bb62de85f0dcc11e)" transform="matrix(.76157 0 0 .76157 88.635 59.921)" rx="22.902" ry="25.728" height="268.7" width="268.7" y="116.96" x="237.39"/>
+    <rect id="d1c742aba2c30b4c94b89914e75bdeca" ry="25.728" style="fill-rule:evenodd;stroke:url(#48e0c26b52714949a81d17a96edf0830);stroke-width:6.7902;fill:url(#eaf22b1edcbd4f44a1c2620823504667)" rx="22.902" transform="matrix(.58908 0 0 .58908 152.75 103.27)" height="268.7" width="268.7" y="116.96" x="237.39"/>
+    <path id="8ce6aba9f27641488c62ef1ea72a6bd9" style="fill:url(#6d68bd117f3e2946a3fbe9979012cead)" sodipodi:type="inkscape:offset" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m382.34 191.62c-16.857 0.00013-25.281 8.2168-25.281 24.656v11.969h-13.844v16.969h13.844v79.812h25.625v-79.812h15.188v-16.969h-15.188v-9.7188c0.23821-5.1224 2.561-7.6874 6.9688-7.6875l7.35 0.54v-19.22l-14.66-0.54z" inkscape:original="M 382.34375 191.625 C 365.48724 191.62513 357.06248 199.84184 357.0625 216.28125 L 357.0625 228.25 L 343.21875 228.25 L 343.21875 245.21875 L 357.0625 245.21875 L 357.0625 325.03125 L 382.6875 325.03125 L 382.6875 245.21875 L 397.875 245.21875 L 397.875 228.25 L 382.6875 228.25 L 382.6875 218.53125 C 382.92571 213.4089 385.2485 210.84386 389.65625 210.84375 L 397 211.375 L 397 192.15625 L 382.34375 191.625 z " transform="matrix(.97812 0 0 .97373 9.6577 .4925)" inkscape:radius="0"/>
+    <path id="8d7e29bfbd93cc4ca1a7914044b459f2" style="fill:url(#d12d5dd1db89f84cb44450e4235ac164)" sodipodi:type="inkscape:offset" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m382.19 195.97c-7.6264 0.0266-12.628 1.8625-15.781 4.9375-3.1761 3.0976-5 7.8978-5 15.375v11.969a4.347 4.347 0 0 1 -4.3438 4.3438h-9.5v8.2812h9.5a4.347 4.347 0 0 1 4.3438 4.3438v75.469h16.938v-75.469a4.347 4.347 0 0 1 4.3438 -4.3438h10.844v-8.2812h-10.844a4.347 4.347 0 0 1 -4.35 -4.34v-9.7188a4.347 4.347 0 0 1 0 -0.1875c0.148-3.1824 0.95156-6.2052 3.0312-8.5 2.0797-2.2948 5.2342-3.3437 8.2812-3.3438a4.347 4.347 0 0 1 0.3125 0l2.6875 0.1875v-10.344l-10.312-0.375h-0.15625z" inkscape:original="M 382.34375 191.625 C 365.48724 191.62513 357.06248 199.84184 357.0625 216.28125 L 357.0625 228.25 L 343.21875 228.25 L 343.21875 245.21875 L 357.0625 245.21875 L 357.0625 325.03125 L 382.6875 325.03125 L 382.6875 245.21875 L 397.875 245.21875 L 397.875 228.25 L 382.6875 228.25 L 382.6875 218.53125 C 382.92571 213.4089 385.2485 210.84386 389.65625 210.84375 L 397 211.375 L 397 192.15625 L 382.34375 191.625 z " transform="matrix(.97812 0 0 .97373 9.6577 .4925)" inkscape:radius="-4.3465757"/>
+    <path id="6012986bdfa0104a9c5941c8825fd676" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccc" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" style="fill-rule:evenodd;fill:url(#f5d2a4d7aeb91f45ba5ccdfd6e085e11)" d="m313.81 174.19h117.29c6.6762 0 12.051 3.3232 12.051 7.451v47.916c-15.349 38.13-121.96 36.538-141.39 0v-47.916c0-4.1279 5.3747-7.451 12.051-7.451z"/>
+    <path id="1c93c3cf6c2a424ba1a77f8a5f559bfb" style="fill:url(#9cae0d5dac3e634593b5ab0cea4ccfd7)" inkscape:connector-curvature="0" d="m383.47 192.12c-7.33 0.03-11.96 1.76-14.85 4.57-2.48 2.41-4.1 5.99-4.53 11.4h15.72c0.5-1.38 1.22-2.67 2.25-3.81 2.23-2.45 5.55-3.53 8.72-3.53a0.82162 0.81793 0 0 1 0.38 0.09v-0.09l1.75 0.13v-8.41l-9.29-0.35h-0.15zm7.59 10.19a0.82162 0.81793 0 0 1 -0.03 0.07c-0.66-0.02 0.69 0.02 0.03 0v-0.07z"/>
+  </g>
+  <metadata id="3fd647b58c0d1d43b0dbd01782428746">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work xmlns:cc="http://creativecommons.org/ns#">
+        <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+        <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License xmlns:cc="http://creativecommons.org/ns#" rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</g></g>
+        </g></Content></Page><Page><Properties><Property name="name">Resume</Property><Property name="id">1457766185653_8122</Property><Property name="width">942</Property><Property name="height">707</Property><Property name="dimBackground"/><Property name="transparentBackground">true</Property><Property name="backgroundColor">#FFFFFFFF</Property><Property name="background">transparent</Property></Properties><Content/></Page><Page><Properties><Property name="name">Projects</Property><Property name="id">1457766211123_1317</Property><Property name="width">942</Property><Property name="height">707</Property><Property name="dimBackground"/><Property name="transparentBackground">true</Property><Property name="backgroundColor">#FFFFFFFF</Property><Property name="background">transparent</Property></Properties><Content/></Page><Page><Properties><Property name="name">Contact</Property><Property name="id">1457766216807_6589</Property><Property name="width">942</Property><Property name="height">707</Property><Property name="dimBackground"/><Property name="transparentBackground">true</Property><Property name="backgroundColor">#FFFFFFFF</Property><Property name="background">transparent</Property></Properties><Content/></Page></Pages></Document>

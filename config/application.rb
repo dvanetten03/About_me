@@ -4,9 +4,14 @@ require 'rails/all'
 
 # Require the gems listed in Gemfile, including any gems
 # you've limited to :test, :development, or :production.
-Bundler.require(*Rails.groups)
 
-module Aboutme
+Bundler.require(:default, Rails.env)
+# config/application.rb
+
+
+
+module Diane
+
   class Application < Rails::Application
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers

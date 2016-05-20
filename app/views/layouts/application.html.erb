@@ -1,14 +1,72 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>Aboutme</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
-  <%= csrf_meta_tags %>
-</head>
-<body>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Diane Van Etten<%= content_for?(:title) ? yield(:title) : "" %></title>
+    <%= stylesheet_link_tag    "application" %>
+    <%= javascript_include_tag "application", 'data-turbolinks-track' => true %>
+    <%= csrf_meta_tags %>
+     <link href="http://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css" rel="stylesheet">
 
-<%= yield %>
+  </head>
 
-</body>
+  <body>
+    <header>
+      <nav class="navbar navbar-inverse" role="navigation">
+        <div class="small-12 medium-6 large-5 small-offset-7 links">
+          <%= link_to 'Home', root_path %>
+          &nbsp;&nbsp;
+          <%= link_to 'Resume', my_resume_path %>
+          &nbsp;&nbsp;
+         <!-- <%= link_to 'Projects', my_projects_path %>
+          &nbsp;&nbsp;
+          <%= link_to 'Blog', blog_path %>
+          &nbsp;&nbsp;
+          <%= link_to 'Contact', contact_path %>-->
+        </div>
+      </nav>
+    </header>
+
+
+    <%= yield %>
+
+    <footer class="footer">
+      <div class="row">
+        <div class="small-12 medium-6 large-5 columns">
+          <p class="logo"><i class="fi-heart"></i> Diane Van Etten</p> 
+          <p class="footer-links">
+            <%=link_to 'Home', root_path %>
+            <%= link_to 'Resume', my_resume_path %>
+           <!-- <%= link_to 'Projects', my_projects_path %>
+            <%= link_to 'Blog', blog_path %>
+            <%= link_to 'Contact', contact_path %> -->
+          </p>
+          <p class="copywrite">2016© </p>
+        </div>
+        <div class="small-12 medium-6 large-4 columns">
+          <ul class="contact">
+            <li><p style="font-size: 15px; color: white; margin-bottom: -1px;"><i class="fi-laptop"></i>www.code12labs.com</p></li>
+            <li><p style="font-size: 15px; color: white;"><i class="fi-telephone"></i>+1-424-272-5334</p></li>
+            <li><p style="font-size: 15px; color: white;"><i class="fi-mail"></i>Diane@code12labs.com</p></li>
+          </ul>
+        </div>
+        <div class="small-12 medium-12 large-3 columns">
+          <p style="text-align: center", class="about">Proudly hacked in Oklahoma City by Diane Van Etten</p>
+
+          <ul class="inline-list social">
+            <a href="https:///www.facebook.com/diane.vanetten"><i style="" class="svg-icon facebook"></i></a>
+            &nbsp;&nbsp;
+            <a href="https://www.twitter.com/dvanetten03"><i class="svg-icon twitter"></i></a>
+            &nbsp;&nbsp;
+            <a href="https://www.linkedin.com/in/dianevanetten"><i class="svg-icon linkedin"></i></a>
+            &nbsp;&nbsp;
+            <a href="https://github.com/dvanetten03"><i class="svg-icon github"></i></a>
+            &nbsp;&nbsp;
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
 </html>
+

@@ -1,9 +1,17 @@
-Rails.application.routes.draw do
+
+Diane::Application.routes.draw do
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  root 'aboutmepages#index'
+
+  root 'quotes#index'
+  get 'my_resume' => 'quotes#resume'
+  get 'my_projects' => 'quotes#projects'
+  get 'blog' => 'projects#blog'
+  get 'contact' => 'projects#contact'
+
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
