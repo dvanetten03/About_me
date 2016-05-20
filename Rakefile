@@ -3,8 +3,5 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-<<<<<<< HEAD
-Rails.application.load_tasks
-=======
 Diane::Application.load_tasks
->>>>>>> d1b6884b76647dcc6307dfffa2ce05856372e711
+
